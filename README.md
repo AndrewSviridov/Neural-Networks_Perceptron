@@ -1,4 +1,4 @@
-# 107_Neural Networks
+# Perceptron
 圖形化介面:
 - 可輸入學習率、收斂條件
 - 可選擇辨識檔案
