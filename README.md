@@ -5,7 +5,7 @@
 - 能顯示閥值、鍵結值、訓練辨識率、測試辨識率
 - 能顯示資料於二維座標，並依照分群結果標誌不同顏色
 
-![start](https://i.imgur.com/854qJmT.png)
+![start](https://i.imgur.com/Z4hkhZY.png)
 
 實作功能:
 - 隨機將資料區分為2/3的訓練資料及1/3的測試資料
